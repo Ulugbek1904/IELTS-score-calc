@@ -15,8 +15,8 @@ The **IELTS Score Calculator** is a C# application designed to help users calcul
 - User-friendly interface for easy score input and result viewing.
 
 ## Code
-![Code](C:\Users\user\Desktop\IELTS-score-calc\Images)
-![code](C:\Users\user\Desktop\IELTS-score-calc\Images)
+![Code](https://github.com/Ulugbek1904/IELTS-score-calc/blob/main/Images/code.png)
+![code](https://github.com/Ulugbek1904/IELTS-score-calc/blob/main/Images/code2.png)
 
 ## Contact
 Created by Jumaboyev Ulug'bek - feel free to contact me!
