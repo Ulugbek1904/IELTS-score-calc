@@ -1,6 +1,5 @@
 # IELTS-score-calculator
 ## Table of Contents
-### Introduction
 * Features
 * Code
 * Contact
