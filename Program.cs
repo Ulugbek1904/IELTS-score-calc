@@ -58,9 +58,7 @@ namespace IELTSscoreCalc
                 default:
                     System.Console.WriteLine("Below or above that range is Invalid");
                     break;
-
             }         
-
         }
         // overAll ni hisoblab beruvchi Method
         public static double OverAll(double l, double r, double w, double s)
@@ -73,5 +71,4 @@ namespace IELTSscoreCalc
             return roundedScore;
         }
     }
-
 }
