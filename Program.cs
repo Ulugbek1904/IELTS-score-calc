@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace IELTSscoreCalc
 {
@@ -31,34 +31,24 @@ namespace IELTSscoreCalc
                 case 9: 
                     System.Console.WriteLine("ExpertUser");
                     break;
-                case 8: 
+                case 8 or 8.5: 
                     System.Console.WriteLine("Very Good");
                     break;
-                case 8.5: 
-                    System.Console.WriteLine("Very Good");
-                    break;
-                case 7.5: 
+                case 7.5 or 7: 
                     System.Console.WriteLine("Good");
                     break;
-                case 7: 
-                    System.Console.WriteLine("Good");
-                    break;
-                case 6.5: 
+                case 6.5 or 6: 
                     System.Console.WriteLine("Competent");
                     break;
-                case 6: 
-                    System.Console.WriteLine("Competent");
-                    break;
-                case 5.5: 
-                    System.Console.WriteLine("Modest");
-                    break;
-                case 5: 
+                case 5 or 5.5: 
                     System.Console.WriteLine("Modest");
                     break;
                 default:
                     System.Console.WriteLine("Below or above that range is Invalid");
                     break;
+
             }         
+
         }
         // overAll ni hisoblab beruvchi Method
         public static double OverAll(double l, double r, double w, double s)
@@ -71,4 +61,5 @@ namespace IELTSscoreCalc
             return roundedScore;
         }
     }
+
 }
